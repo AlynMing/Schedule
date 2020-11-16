@@ -64,3 +64,7 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
    * Grocery Screen
    * Social Screen
    * Schedule Screen
+   
+   
+ # Wire Frame
+ <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/CodePath_WireFrame.png" width=600>
