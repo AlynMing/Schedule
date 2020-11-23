@@ -51,3 +51,8 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
  
  # Schema
  <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/Model.JPG" width=600/>
+
+ # Networking
+  * Home Feed
+    *(READ/GET) Query Homework posts from current user
+     <img src="" width=400/>
