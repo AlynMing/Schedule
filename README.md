@@ -48,3 +48,6 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
    
  # Wire Frame
  <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/CodePath_WireFrame.png" width=600>
+ 
+ # Schema
+ <img src="https://cdn.discordapp.com/attachments/771912645389451269/780254153589915678/This.JPG" width=600
