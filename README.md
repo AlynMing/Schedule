@@ -54,6 +54,6 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
 
  # Networking
   * Home Feed
-    *(READ/GET) Query Homework posts from current user
+      *(READ/GET) Query Homework posts from current user
      
      <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/homeworkfragment.png" width=400/>
