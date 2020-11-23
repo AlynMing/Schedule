@@ -55,4 +55,5 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
  # Networking
   * Home Feed
     *(READ/GET) Query Homework posts from current user
+     
      <img src="" width=400/>
