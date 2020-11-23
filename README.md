@@ -49,6 +49,17 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
  # Wire Frame
  <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/CodePath_WireFrame.png" width=600>
  
- # Schema
- <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/Model.JPG" width=600/>
+ # Networking
+  * Home Feed
+      * (READ/GET) Query all Homework tasks for current user
+     <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/homeworkfragment.png" width=400/>
+     * (CREATE/POST) Create a task for user
+     <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/saveTask.png" width=400/>
+ * Grocery Feed
+     * (READ/GET) Query all Grocery tasks for current user
+     <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/groceryfragment.png" width=400/>
+ * Chores Feed
+     * (READ/GET) Query all Chores tasks for current user
+     <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/choresfragment.png" width=400/>
 
+    
