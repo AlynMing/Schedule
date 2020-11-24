@@ -14,7 +14,7 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
 
 **Optional Nice-to-have Stories**
  * User can post about their daily routines
- * User can color-code their lists and schedules
+ * User can color-code their lists
 
 ## 2. Screen Archetypes
 
