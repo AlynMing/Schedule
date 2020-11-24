@@ -14,7 +14,7 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
 
 **Optional Nice-to-have Stories**
  * User can post about their daily routines
- * User can color-code their lists
+ * User can color-code their lists and schedules
 
 ## 2. Screen Archetypes
 
@@ -53,6 +53,12 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
  <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/Model.JPG" width=600/>
  
  # Networking
+  * Login Feed
+      * (READ/GET) Read user input for login credentials
+      <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/login2.png" width=400/>
+  * Registration Feed
+      * (READ/GET) Read user input to create account
+      <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/signup.png" width=400/>
   * Home Feed
       * (READ/GET) Query all Homework tasks for current user
      <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/homeworkfragment.png" width=400/>
