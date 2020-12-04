@@ -9,7 +9,7 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
 
 **Required Must-have Stories**
 
- * User can login and logout of their account
+ - [x] User can login and logout of their account
  * User can add/edit/remove tasks onto their list
 
 **Optional Nice-to-have Stories**
@@ -18,9 +18,9 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
 
 ## 2. Screen Archetypes
 
- * Login Screen
+ - [x] Login Screen
    * User can login to their account
- * Registration Screen
+ - [x] Registration Screen
    * User can register for an account
  * Creation
    * User can create a new task
@@ -35,10 +35,10 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
 
 **Flow Navigation** (Screen to Screen)
 
- * Login Screen 
-   * Home Screen
+ - [x] Login Screen 
+    * Home Screen
        * Task automatically
-* Registration Screen
+- [x] Registration Screen
     * Home Screen
        * Task automatically
  * Home Screen
@@ -71,5 +71,11 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
  * Chores Feed
      * (READ/GET) Query all Chores tasks for current user
      <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/choresfragment.png" width=400/>
+     
+ # Progress 
+  * Login/Register Screen 
+    <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/LoginGif.gif" width=400/>
+    
+   
 
     
