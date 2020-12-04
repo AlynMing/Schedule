@@ -74,6 +74,8 @@ Your (https://hackmd.io/s/H1wGpVUh7) (described in that link) will look like the
      
  # Progress 
   * Login/Register Screen 
+  
+  
     <img src="https://github.com/CodePath-2020-Schedule-App/Schedule/blob/main/LoginGif.gif" width=400/>
     
    
